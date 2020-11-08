@@ -1,3 +1,5 @@
 1 Barcelona
 2 Madrid
 3 Sevilla
+6 Toledo
+7 Salamanca
