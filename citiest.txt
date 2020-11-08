@@ -1,5 +1,7 @@
 1 Barcelona
 2 Madrid
 3 Sevilla
+4 Valladolid
+5 Segovia
 6 Toledo
 7 Salamanca
